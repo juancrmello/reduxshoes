@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="85" viewBox="0 0 500 85">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 70px;
+        filter: url(#filter);
+        fill: #dedede;
+        font-family: Gotham;
+        font-weight: 700;
+      }
+    </style>
+    <filter id="filter" x="3" y="18" width="494" height="54" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood result="flood-2" flood-color="#185c15"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+      <feGaussianBlur result="blur-3" stdDeviation="1.667" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#151f16" flood-opacity="0.53"/>
+      <feComposite result="composite-4" operator="out" in2="blur-3"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+  </defs>
+  <text id="REDUXSHOES" class="cls-1" x="-2.961" y="68.105">REDUXSHOES</text>
+</svg>
