@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis Nike Revolution 5 Masculino",
+      "price": 229.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
+    },
+    {
+      "id": 2,
+      "title": "Tênis Adidas Falcon Masculino",
+      "price": 249.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-falcon-masculino/26/COL-4399-026/COL-4399-026_zoom1.jpg?ts=1584531781&ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas Lite Racer Cln Masculino",
+      "price": 199.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-lite-racer-cln-masculino/12/COL-7070-012/COL-7070-012_zoom1.jpg?ts=1584624042&ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Puma Cell Surin 2 Lite BDP Masculino",
+      "price": 189.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-puma-cell-surin-2-lite-bdp-masculino/38/NWG-0509-038/NWG-0509-038_zoom1.jpg?ts=1581505701&ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Nike Renew Fusion Masculino",
+      "price": 299.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-renew-fusion-masculino/26/HZM-3086-026/HZM-3086-026_zoom1.jpg?ts=1578572886&ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Nike Court Lite 2 Masculino",
+      "price": 189.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-court-lite-2-masculino/26/HZM-1864-026/HZM-1864-026_zoom1.jpg?ts=1572007514&ims=326x"
+    }
+  ]
+}
