@@ -30,6 +30,7 @@ module.exports = {
     ],
     'import/prefer-default-export': 'off',
     'react/no-unused-state': 'off',
-    'react/state-in-constructor': 'off'
+    'react/state-in-constructor': 'off',
+    'no-console': ["error", { allow: ["tron"] }]
   }
 };
